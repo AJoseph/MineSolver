@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1324555944 source:c:\aj\myden\sweeper\board.cpp
+	"board.h"
+	<ctime>
+	<cstdlib>
+
+1324555906 
+
+1324554785 c:\aj\myden\sweeper\board.h
+	"block.h"
+
+1324554513 c:\aj\myden\sweeper\block.h
+	<iostream>
+	<stdexcept>
+
+1324491339 >
+
+1324455217 source:c:\aj\myden\sweeper\main.cpp
+	"sweeper.h"
+
+1324455298 "
+
+1324455298 c:\aj\myden\sweeper\sweeper.h
+	"board.h"
+
+1324148720 source:/home/aj/myDen/Sweeper/block.cpp
+	"block.h"
+
+1324491339 /home/aj/myDen/Sweeper/block.h
+	<iostream>
+	<stdexcept>
+
+1324455218 source:/home/aj/myDen/Sweeper/main.cpp
+	"sweeper.h"
+
+1324455298 /home/aj/myDen/Sweeper/sweeper.h
+	"board.h"
+
+1324404902 /home/aj/myDen/Sweeper/board.h
+	"block.h"
+
+1324490828 source:/home/aj/myDen/Sweeper/board.cpp
+	"board.h"
+	<ctime>
+	<cstdlib>
+
+1324455298 source:/home/aj/myDen/Sweeper/sweeper.cpp
+	"sweeper.h"
+
+1324455298 source:c:\aj\myden\sweeper\sweeper.cpp
+	"sweeper.h"
+
+1324148720 source:c:\aj\myden\sweeper\block.cpp
+	"block.h"
+
+1324555906 source:c:\aj\myden\sweeper\solver.cpp
+	"board.h"
+	<ctime>
+	<cstdlib>
+	<vector>
+
+1324148720 source:/home/aj/myDen/Sweeper_Upd/block.cpp
+	"block.h"
+
+1324554514 /home/aj/myDen/Sweeper_Upd/block.h
+	<iostream>
+	<stdexcept>
+
+1324555946 source:/home/aj/myDen/Sweeper_Upd/board.cpp
+	"board.h"
+	<ctime>
+	<cstdlib>
+
+1324554786 /home/aj/myDen/Sweeper_Upd/board.h
+	"block.h"
+
+1324576300 source:/home/aj/myDen/Sweeper_Upd/solver.cpp
+	"board.h"
+	<cstdlib>
+	<vector>
+
